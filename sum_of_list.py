@@ -1,1 +1,1 @@
-#compute sum list
+#compute sum list fixed
